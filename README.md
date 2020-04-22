@@ -10,5 +10,6 @@ Text, text
 
 ## Add another paragraph in feature branch
 Some text is here
+Add line after squash
 
 ## Some text
